@@ -6,6 +6,8 @@ AgroEvolution és un projecte integral de distribució de producte de pagès. Pe
 
 
 
+
+
 DESENVOLUPAMENT TÈCNIC DEL PROGRAMA
 ___________________________________
 
@@ -14,6 +16,8 @@ S’ha triat la base de wordpress per la seva interconecció i practicitat.
 L’estructuració de tot el projecte es presenta sobre un plugin/mòdul per a wordpress que compacti les diferents funcionalitats establertes. Que es pugui adaptar a diferents temes que s'especificaran per la millor integració.
 En tot cas es pot contemplar que dintre del mòdul es puguin anular certes funcions (aïllables) com la taula de cultius, l’autorització de treball com a moneda, etc.
 
+ 
+ 
  
  
 
