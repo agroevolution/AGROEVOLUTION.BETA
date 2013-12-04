@@ -7,7 +7,7 @@ AgroEvolution és un projecte integral de distribució de producte de pagès. Pe
 
 
 DESENVOLUPAMENT TÈCNIC DEL PROGRAMA
-===================================
+___________________________________
 
 S’ha triat la base de wordpress per la seva interconecció i practicitat.
 
@@ -18,7 +18,7 @@ En tot cas es pot contemplar que dintre del mòdul es puguin anular certes funci
  
 
 FUNCIONALITATS
-==============
+______________
 
 REGISTRE – El registre ha de ser de forma quasi completa per poder inscriure socis/sòcies a una associació. És dir que ha de reunir els camps i passos del procés fins al punt de rebre l’autorització signada de l’associat i el rebut d’inscripció de la caixa/banc. ///  els camps del formulari han de poder ser modificables  ///  ha de limitar la inscripció estrictament a gent dels pobles que s’hagin preestablert.  /// Ha de diferenciar entre soci productor i soci consumidor. La diferència bàsica a part de camps diferents i quotes diferents, és que el soci productor s’ha d’aprobar per l’usuari de l’assemblea/associació abans de fer el pagament.  /// Tots els camps dels formularis han de poder-se modificar des de l’administrador del wordpress.  /// En la secció de pagaments, hi haurà les quotes. Les quals s’han de poder modificar posteriorment per l’usuari de forma mensual. És dir que sempre hi haurà d’haver-hi una quota preestablerta i triada, però l’usuari la podrà modificar   i tindrà efectes pel mes següent (cicle econòmic mitjà)*
 el cicle econòmic curt és setmanal que marca el ritme de repartiment i el cicle llarg és anual que marca el ritme de collites /// S’ha d’especificar que el cobrament de les quotes es farà de forma mensual i inclou el servei d’alimentació pagesa. I per tant s’ha d’incloure les dades de domiciliació bancària.  /// A part de les quotes amb servei de distribució pagesa inclòs, també hi haurà una quota mínima la qual donarà dret als serveis bàsics de l’associació i permetrà sense crèdit estar al dia del producte de temporada.  /// També ha de contemplar la baixa total de l’associació amb verificació (especificant borrat del registre de l’associació). I la pausa completa de quotes i serveis amb possibilitat de reactivar (seguin contant com a associat inactiu).
