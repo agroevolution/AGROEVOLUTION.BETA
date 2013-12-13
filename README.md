@@ -1,7 +1,7 @@
 Document col·laboratiu AgroEvolution BETA
 =========================================
 
-AgroEvolution és un projecte integral de distribució de producte de pagès. Pensat de forma senzilla i accessible per a tot els públics a través de plugins per a wordpress. 
+AgroEvolution és un projecte integral de distribució de producte de pagès. Pensat de forma senzilla i accessible per a tot els públics a través de plugins per a wordpress. o d'altres mètodes. 
 
 
 
